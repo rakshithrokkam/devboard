@@ -71,10 +71,4 @@ To spin up the multi-container application locally, you only need [Docker](https
 
 ---
 
-## 📝 Resume Bullet Points (Copy-Paste Ready)
 
-Feel free to utilize these points to describe this project dynamically on your resume:
-
-- Built **DevBoard**, a real-time developer job board on MERN stack with **Socket.io** live notifications, containerised using **Docker Compose** with separate React, Node, and MongoDB services behind an **Nginx** reverse proxy.
-- Implemented a complete **CI/CD pipeline** with **GitHub Actions** — automated tests (Jest + Supertest) on every PR, Docker image build and push to AWS ECR, and zero-downtime deploy to EC2 via SSH.
-- Managed production secrets using GitHub Actions encrypted secrets and AWS Systems Manager Parameter Store; app deployed seamlessly to cloud architectures.
